@@ -1,22 +1,6 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-# mensageria-kafka
-=======
-# Projeto do curso de mensageria 
-Instrutor: Luan Rocha.
-=======
-#Proeto com mensageria
->>>>>>> 325dc37 (Configurado arquivo READEME.md)
 
-O projeto consiste em um sistema responsável por gerenciar o processo de recepção, validação e pagamento de boletos. A comunicação entre os diferentes serviços do sistema é realizada por meio de mensageria utilizando o Apache Kafka. Cada etapa do processo é orquestrada para garantir alta disponibilidade, escalabilidade e integridade dos dados.
-
-<<<<<<< HEAD
 ### Arquitetura do projeto
-O projeto consiste em aplicações responsáveis por recepcionar, validar e pagar um boleto, 
-onde a comunicação entre sistema acontece por mensageria.
-![Alt Text](./images/arquitetura.gif)
->>>>>>> 01b1f90 (Projeto concluido)
-=======
+O projeto consiste em um sistema responsável por gerenciar o processo de recepção, validação e pagamento de boletos. A comunicação entre os diferentes serviços do sistema é realizada por meio de mensageria utilizando o **Apache Kafka**. Cada etapa do processo foi orquestrada para garantir alta disponibilidade, escalabilidade e integridade dos dados.
 
 ###Tecnologias Utilizadas
 
@@ -31,4 +15,3 @@ onde a comunicação entre sistema acontece por mensageria.
 
 
 ![Alt Text](./imagens/arquitetura.gif)
->>>>>>> 325dc37 (Configurado arquivo READEME.md)
